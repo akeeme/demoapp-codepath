@@ -2,7 +2,7 @@
 A demo app I made for Code Path's entry using xcode
 
 ### App Walk-though
-<img src="https://imgur.com/a/xSXHE5j.gif" width=200><br>
+<img src="https://imgur.com/a/xSXHE5j" width=200><br>
 
 
 ### Required User Stories
