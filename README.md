@@ -2,7 +2,7 @@
 A demo app I made for Code Path's entry using xcode
 
 ### App Walk-though
-<img src="https://imgur.com/a/xSXHE5j" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xSXHE5j"  ><a href="//imgur.com/a/xSXHE5j">prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ### Required User Stories
